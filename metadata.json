@@ -1,0 +1,6 @@
+{
+  "name": "Veloce - Regional Voice Call Translator",
+  "description": "A real-time, live voice translation application for regional languages and dialects. Facilitates seamless multi-language calls with instant transcription, cultural dialect adaptation, and speech playbacks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
